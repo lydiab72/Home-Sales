@@ -11,12 +11,17 @@ Instructions
 5. Answer the following questions using SparkSQL:
 
     - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+            ![image](https://github.com/lydiab72/Home-Sales/assets/132516418/111a3d1a-06a5-4800-ae91-d28c06475352)
 
     - What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 
+       ![image](https://github.com/lydiab72/Home-Sales/assets/132516418/6a6e6f6f-0169-420b-bd3c-92972675e2bf)
+
     - What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
+            ![image](https://github.com/lydiab72/Home-Sales/assets/132516418/cdb34178-76bf-4466-905b-8aab213e5cc5)
 
     - What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
+            ![image](https://github.com/lydiab72/Home-Sales/assets/132516418/f23abf49-1f46-4839-ad7b-02f621b9d354)
 
 6. Cache your temporary table home_sales.
 
